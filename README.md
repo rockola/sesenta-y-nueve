@@ -6,5 +6,5 @@ Late 60s Boutique NPN Fuzz Face
 
 ![Front](https://raw.githubusercontent.com/rockola/sesenta-y-nueve/main/images/sesenta-y-nueve-v0.1-front.png)
 ![Back](https://raw.githubusercontent.com/rockola/sesenta-y-nueve/main/images/sesenta-y-nueve-v0.1-back.png)
-![Schematic](https://raw.githubusercontent.com/rockola/sesenta-y-nueve/main/images/sesenta-y-nueve-schematic.png)
+![Schematic](https://raw.githubusercontent.com/rockola/sesenta-y-nueve/main/images/sesenta-y-nueve-v0.1-schematic.png)
 
