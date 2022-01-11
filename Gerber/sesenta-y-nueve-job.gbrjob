@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-7619-gacfbcb4beb)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-12-17T10:45:11+02:00"
+    "CreationDate": "2022-01-11T21:34:31+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "sesenta-y-nueve-F_Cu.gtl",
+      "Path": "sesenta-y-nueve-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-B_Cu.gbl",
+      "Path": "sesenta-y-nueve-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-F_Paste.gtp",
+      "Path": "sesenta-y-nueve-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-B_Paste.gbp",
+      "Path": "sesenta-y-nueve-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-F_Silkscreen.gto",
+      "Path": "sesenta-y-nueve-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-B_Silkscreen.gbo",
+      "Path": "sesenta-y-nueve-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "sesenta-y-nueve-F_Mask.gts",
+      "Path": "sesenta-y-nueve-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "sesenta-y-nueve-B_Mask.gbs",
+      "Path": "sesenta-y-nueve-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "sesenta-y-nueve-Edge_Cuts.gm1",
+      "Path": "sesenta-y-nueve-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
